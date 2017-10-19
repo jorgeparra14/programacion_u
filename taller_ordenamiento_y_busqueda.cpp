@@ -2,6 +2,9 @@
 #include <time.h>
 #include <stdlib.h>
 
+/*creado por jair y jorge parra
+fecha 18 octubre 2017*/
+
 int vector[600000];
 void menu();
 void  llenarVector(int vector[], int &longitud);
